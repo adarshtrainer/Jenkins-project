@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-node-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js project for Jenkins freestyle job demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo Build completed successfully!",
+    "test": "echo Test cases passed successfully!"
+  },
+  "author": "Adarsh",
+  "license": "ISC"
+}
