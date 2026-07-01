@@ -6,7 +6,9 @@ This is a simple Node.js project for Jenkins freestyle job practical class.
 
 Install dependencies:
 
-npm install
+sudo apt update
+
+sudo apt install -y nodejs npm
 
 Run build:
 
